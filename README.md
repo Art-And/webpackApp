@@ -1,1 +1,1 @@
-Testeo de instalacion de webpack en app, prueba basica de funcionamiento.
+Esta es una prueba para desplegar un entorno muy basico con webpack, aplicando el modo development y el production. :D
